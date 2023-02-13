@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "LiteDB/5.0.15": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MedWallet.DataModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/MedWallet.DataModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MedWallet.DataModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LiteDB/5.0.15": {
+      "sha512": "nucyfCOGSATH553BxplxExP3BOqEwmHt0B57426EIaQjD3CC1Odb52VVCGgTxyYaD2oe3B/cJk8jDo6XiBJqPg==",
+      "type": "package",
+      "path": "litedb/5.0.15",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "AppVeyorSettings.json",
+        "LICENSE",
+        "icon_64x64.png",
+        "lib/net45/LiteDB.dll",
+        "lib/net45/LiteDB.xml",
+        "lib/netstandard1.3/LiteDB.dll",
+        "lib/netstandard1.3/LiteDB.xml",
+        "lib/netstandard2.0/LiteDB.dll",
+        "lib/netstandard2.0/LiteDB.xml",
+        "litedb.5.0.15.nupkg.sha512",
+        "litedb.nuspec"
+      ]
+    },
+    "MedWallet.DataModels/1.0.0": {
+      "type": "project",
+      "path": "../MedWallet.DataModels/MedWallet.DataModels.csproj",
+      "msbuildProject": "../MedWallet.DataModels/MedWallet.DataModels.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "LiteDB >= 5.0.15",
+      "MedWallet.DataModels >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/lesbrown/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.NOSql/MedWallet.Data.NOSql.csproj",
+      "projectName": "MedWallet.Data.NOSql",
+      "projectPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.NOSql/MedWallet.Data.NOSql.csproj",
+      "packagesPath": "/Users/lesbrown/.nuget/packages/",
+      "outputPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.NOSql/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/Users/lesbrown/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.DataModels/MedWallet.DataModels.csproj": {
+              "projectPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.DataModels/MedWallet.DataModels.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "LiteDB": {
+            "target": "Package",
+            "version": "[5.0.15, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

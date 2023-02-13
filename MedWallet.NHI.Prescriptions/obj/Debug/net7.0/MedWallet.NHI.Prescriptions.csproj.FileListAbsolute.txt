@@ -1,0 +1,12 @@
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/bin/Debug/net7.0/MedWallet.NHI.Prescriptions.deps.json
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/bin/Debug/net7.0/MedWallet.NHI.Prescriptions.dll
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/bin/Debug/net7.0/MedWallet.NHI.Prescriptions.pdb
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/obj/Debug/net7.0/MedWallet.NHI.Prescriptions.csproj.AssemblyReference.cache
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/obj/Debug/net7.0/MedWallet.NHI.Prescriptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/obj/Debug/net7.0/MedWallet.NHI.Prescriptions.AssemblyInfoInputs.cache
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/obj/Debug/net7.0/MedWallet.NHI.Prescriptions.AssemblyInfo.cs
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/obj/Debug/net7.0/MedWallet.NHI.Prescriptions.csproj.CoreCompileInputs.cache
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/obj/Debug/net7.0/MedWallet.NHI.Prescriptions.dll
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/obj/Debug/net7.0/refint/MedWallet.NHI.Prescriptions.dll
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/obj/Debug/net7.0/MedWallet.NHI.Prescriptions.pdb
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/obj/Debug/net7.0/ref/MedWallet.NHI.Prescriptions.dll

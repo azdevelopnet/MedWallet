@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedWalletAPI", "MedWalletAPI\MedWalletAPI.csproj", "{924E572D-3315-4B53-A857-4D2DA21EF32C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedWallet.Data.InMemory", "MedWallet.Data.InMemory\MedWallet.Data.InMemory.csproj", "{3C4C12F4-A166-454A-9462-E0D002DDE5CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedWallet.Data.NOSql", "MedWallet.Data.NOSql\MedWallet.Data.NOSql.csproj", "{E62FEA7E-762F-429E-83D3-190580CCD6E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedWallet.Data.SqlServer", "MedWallet.Data.SqlServer\MedWallet.Data.SqlServer.csproj", "{CC02CF84-549C-4F62-A9AB-4503E266CDCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedWallet.DataModels", "MedWallet.DataModels\MedWallet.DataModels.csproj", "{2C2A1C42-B8FC-4A42-8AC3-A80B6B22A8C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedWallet.NHI.Prescriptions", "MedWallet.NHI.Prescriptions\MedWallet.NHI.Prescriptions.csproj", "{16570F42-22B3-4270-972C-36EF72BCD052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924E572D-3315-4B53-A857-4D2DA21EF32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924E572D-3315-4B53-A857-4D2DA21EF32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924E572D-3315-4B53-A857-4D2DA21EF32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924E572D-3315-4B53-A857-4D2DA21EF32C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4C12F4-A166-454A-9462-E0D002DDE5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4C12F4-A166-454A-9462-E0D002DDE5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4C12F4-A166-454A-9462-E0D002DDE5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4C12F4-A166-454A-9462-E0D002DDE5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E62FEA7E-762F-429E-83D3-190580CCD6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62FEA7E-762F-429E-83D3-190580CCD6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62FEA7E-762F-429E-83D3-190580CCD6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62FEA7E-762F-429E-83D3-190580CCD6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC02CF84-549C-4F62-A9AB-4503E266CDCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC02CF84-549C-4F62-A9AB-4503E266CDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC02CF84-549C-4F62-A9AB-4503E266CDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC02CF84-549C-4F62-A9AB-4503E266CDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2A1C42-B8FC-4A42-8AC3-A80B6B22A8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2A1C42-B8FC-4A42-8AC3-A80B6B22A8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2A1C42-B8FC-4A42-8AC3-A80B6B22A8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2A1C42-B8FC-4A42-8AC3-A80B6B22A8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16570F42-22B3-4270-972C-36EF72BCD052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16570F42-22B3-4270-972C-36EF72BCD052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16570F42-22B3-4270-972C-36EF72BCD052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16570F42-22B3-4270-972C-36EF72BCD052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EB30D17-4D24-49CA-AE38-8432911CECFD}
+	EndGlobalSection
+EndGlobal

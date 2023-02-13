@@ -1,0 +1,15 @@
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/bin/Debug/net7.0/MedWallet.Data.SqlServer.deps.json
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/bin/Debug/net7.0/MedWallet.Data.SqlServer.dll
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/bin/Debug/net7.0/MedWallet.Data.SqlServer.pdb
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/bin/Debug/net7.0/MedWallet.DataModels.dll
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/bin/Debug/net7.0/MedWallet.DataModels.pdb
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/obj/Debug/net7.0/MedWallet.Data.SqlServer.csproj.AssemblyReference.cache
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/obj/Debug/net7.0/MedWallet.Data.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/obj/Debug/net7.0/MedWallet.Data.SqlServer.AssemblyInfoInputs.cache
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/obj/Debug/net7.0/MedWallet.Data.SqlServer.AssemblyInfo.cs
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/obj/Debug/net7.0/MedWallet.Data.SqlServer.csproj.CoreCompileInputs.cache
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/obj/Debug/net7.0/MedWallet.Data.SqlServer.csproj.CopyComplete
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/obj/Debug/net7.0/MedWallet.Data.SqlServer.dll
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/obj/Debug/net7.0/refint/MedWallet.Data.SqlServer.dll
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/obj/Debug/net7.0/MedWallet.Data.SqlServer.pdb
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/obj/Debug/net7.0/ref/MedWallet.Data.SqlServer.dll

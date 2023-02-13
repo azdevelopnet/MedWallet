@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UtQ7NlfCc7KQcYithkUVNWBH8mrO1IwJ8hsgEsTJrtqWj6oTDxmuHxy70emxret9HUTBabckZ7nOtAwfavNsYg==",
+  "success": true,
+  "projectFilePath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.NOSql/MedWallet.Data.NOSql.csproj",
+  "expectedPackageFiles": [
+    "/Users/lesbrown/.nuget/packages/litedb/5.0.15/litedb.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/bin/Debug/net7.0/MedWallet.Data.InMemory.deps.json
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/bin/Debug/net7.0/MedWallet.Data.InMemory.dll
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/bin/Debug/net7.0/MedWallet.Data.InMemory.pdb
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/bin/Debug/net7.0/MedWallet.DataModels.dll
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/bin/Debug/net7.0/MedWallet.DataModels.pdb
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/obj/Debug/net7.0/MedWallet.Data.InMemory.csproj.AssemblyReference.cache
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/obj/Debug/net7.0/MedWallet.Data.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/obj/Debug/net7.0/MedWallet.Data.InMemory.AssemblyInfoInputs.cache
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/obj/Debug/net7.0/MedWallet.Data.InMemory.AssemblyInfo.cs
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/obj/Debug/net7.0/MedWallet.Data.InMemory.csproj.CoreCompileInputs.cache
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/obj/Debug/net7.0/MedWallet.Data.InMemory.csproj.CopyComplete
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/obj/Debug/net7.0/MedWallet.Data.InMemory.dll
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/obj/Debug/net7.0/refint/MedWallet.Data.InMemory.dll
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/obj/Debug/net7.0/MedWallet.Data.InMemory.pdb
+/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/obj/Debug/net7.0/ref/MedWallet.Data.InMemory.dll

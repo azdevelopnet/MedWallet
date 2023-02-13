@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6F+/dLc83MAaIFSnPnmdaJNm8BYXfulLnbtsFYhmge0=",
+  "Source": "MedWalletAPI",
+  "BasePath": "_content/MedWalletAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

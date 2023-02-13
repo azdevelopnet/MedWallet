@@ -1,0 +1,407 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lesbrown/Desktop/MedWalletAPI/MedWalletAPI/MedWalletAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/MedWallet.Data.InMemory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/MedWallet.Data.InMemory.csproj",
+        "projectName": "MedWallet.Data.InMemory",
+        "projectPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/MedWallet.Data.InMemory.csproj",
+        "packagesPath": "/Users/lesbrown/.nuget/packages/",
+        "outputPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lesbrown/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.DataModels/MedWallet.DataModels.csproj": {
+                "projectPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.DataModels/MedWallet.DataModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.NOSql/MedWallet.Data.NOSql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.NOSql/MedWallet.Data.NOSql.csproj",
+        "projectName": "MedWallet.Data.NOSql",
+        "projectPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.NOSql/MedWallet.Data.NOSql.csproj",
+        "packagesPath": "/Users/lesbrown/.nuget/packages/",
+        "outputPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.NOSql/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lesbrown/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.DataModels/MedWallet.DataModels.csproj": {
+                "projectPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.DataModels/MedWallet.DataModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/MedWallet.Data.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/MedWallet.Data.SqlServer.csproj",
+        "projectName": "MedWallet.Data.SqlServer",
+        "projectPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/MedWallet.Data.SqlServer.csproj",
+        "packagesPath": "/Users/lesbrown/.nuget/packages/",
+        "outputPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lesbrown/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.DataModels/MedWallet.DataModels.csproj": {
+                "projectPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.DataModels/MedWallet.DataModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.DataModels/MedWallet.DataModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.DataModels/MedWallet.DataModels.csproj",
+        "projectName": "MedWallet.DataModels",
+        "projectPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.DataModels/MedWallet.DataModels.csproj",
+        "packagesPath": "/Users/lesbrown/.nuget/packages/",
+        "outputPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.DataModels/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lesbrown/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/MedWallet.NHI.Prescriptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/MedWallet.NHI.Prescriptions.csproj",
+        "projectName": "MedWallet.NHI.Prescriptions",
+        "projectPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/MedWallet.NHI.Prescriptions.csproj",
+        "packagesPath": "/Users/lesbrown/.nuget/packages/",
+        "outputPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lesbrown/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lesbrown/Desktop/MedWalletAPI/MedWalletAPI/MedWalletAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lesbrown/Desktop/MedWalletAPI/MedWalletAPI/MedWalletAPI.csproj",
+        "projectName": "MedWalletAPI",
+        "projectPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWalletAPI/MedWalletAPI.csproj",
+        "packagesPath": "/Users/lesbrown/.nuget/packages/",
+        "outputPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWalletAPI/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lesbrown/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/MedWallet.Data.InMemory.csproj": {
+                "projectPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.InMemory/MedWallet.Data.InMemory.csproj"
+              },
+              "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.NOSql/MedWallet.Data.NOSql.csproj": {
+                "projectPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.NOSql/MedWallet.Data.NOSql.csproj"
+              },
+              "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/MedWallet.Data.SqlServer.csproj": {
+                "projectPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.Data.SqlServer/MedWallet.Data.SqlServer.csproj"
+              },
+              "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.DataModels/MedWallet.DataModels.csproj": {
+                "projectPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.DataModels/MedWallet.DataModels.csproj"
+              },
+              "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/MedWallet.NHI.Prescriptions.csproj": {
+                "projectPath": "/Users/lesbrown/Desktop/MedWalletAPI/MedWallet.NHI.Prescriptions/MedWallet.NHI.Prescriptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
